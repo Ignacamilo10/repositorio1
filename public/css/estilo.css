@@ -1,0 +1,38 @@
+body{
+    font-family: 'roboto',sans-serif;
+}
+h1,h2,h3,h4,h5{
+    font-weight: bold;
+}
+.logotipo{
+    width: 150px;
+    padding: 5px 0;
+}
+.iconos-redes-header{
+    width: 80px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.cabezera-somos {
+    padding: 150px 0 100px 0;
+    background-image: url(../img/logo1.png);
+    background-position: center center;
+}
+.cabezera-contacto{
+    padding: 150px 0 100px 0;
+    background-image: url(../img/tecnico-en-construccion.jpg);
+    background-position: center top;
+}
+
+footer{
+    background-color: black;
+    padding: 100px 0;
+    text-align: center;
+}
+footer .icono-redes-footer{
+    width: 200px;
+}
+.m-5 {
+    margin: auto;
+}
+
